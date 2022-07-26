@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+  }
+  
+  .todoNameContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .todoName {
+    color: #abb2cf;
+    font-size: 40px;
+  }
+  
+  .complete {
+    text-decoration: line-through;
+  }
+  
+  .buttonContainer {
+  }

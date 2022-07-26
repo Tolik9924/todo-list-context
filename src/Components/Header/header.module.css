@@ -1,0 +1,10 @@
+.container {
+    width: 31%;
+    background: #b979f2;
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    color: #fff;
+}
